@@ -51,8 +51,8 @@ public final class Ingresar_0020Requerimiento_jsp extends org.apache.jasper.runt
       out.write("        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n");
       out.write("        <title>Ingresar Requerimiento</title>\n");
       out.write("    </head>\n");
-      out.write("    <body style =\"background-color: gray\">\n");
-      out.write("        \n");
+      out.write("    <body style =\"background-color: gray\"   >\n");
+      out.write("        p.solid {border-style: solid;}\n");
       out.write("        <section>\n");
       out.write("                        <div> \n");
       out.write("\n");

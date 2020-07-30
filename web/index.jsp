@@ -16,7 +16,7 @@
     
     <body >
         <h1>Autentificacion</h1>
-        <div id="cuadro">
+        <div id="cuadro" border-style: solid>
         <form action ="Autentificacion" method ="post" id="inicio"  >
             <label>Usuario</label>
             <input type="text" name="usuario" id="txtusuario" />

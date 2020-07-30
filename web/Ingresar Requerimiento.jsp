@@ -12,8 +12,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Ingresar Requerimiento</title>
     </head>
-    <body style ="background-color: gray">
-        
+    <body style ="background-color: gray"   >
+       
         <section>
                         <div> 
 
